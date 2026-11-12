@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(18, 227, 116);
+    color: darkgrey;
+}
+h1 , h2 , h3 , h4 , h5 , h6{
+    text-align: center;
+}
+ul , ol{
+    list-style: none
+}
+
+
+hr{
+    background-color: blue;
+    border: none;
+    height: 2px;
+}
+section{
+    background-color: gray;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+#section{
+    background: #1da9e0;
+background: linear-gradient(157deg, rgba(29, 169, 224, 1) 10%, rgba(12, 232, 103, 1) 59%, rgba(237, 221, 83, 1) 80%);
+}
+#section-2{
+background-image: url(images/pietro-de-grandi-T7K4aEPoGGk-unsplash.jpg);
+background-position: center;
+background-size: cover;
+}
+#section-3{
+    background: #96dc59;
+background: linear-gradient(113deg, rgba(150, 220, 89, 1) 16%, rgba(63, 94, 251, 1) 55%, rgba(252, 70, 107, 1) 79%);
+}
